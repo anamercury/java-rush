@@ -1,0 +1,5 @@
+*.iml
+out/
+.idea/
+src/DO NOT READ.txt
+src/JavaRushPlugin.properties
