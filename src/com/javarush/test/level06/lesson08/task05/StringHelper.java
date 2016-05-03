@@ -12,14 +12,9 @@ public class StringHelper
 {
     public static String multiply(String s)
     {
-        String result = "";
-        //TODO need to invoke multiply(s, count)
-        for (int i = 0; i < 5; i++)
-        {
-            result += s;
-        }
-        return result;
+        return multiply(s,5);
     }
+
 
     public static String multiply(String s, int count)
     {
